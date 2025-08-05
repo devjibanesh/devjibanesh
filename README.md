@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I am Jibanesh.<br>🧑‍🎓 A high school student from India passionate about CS and Cybersecurity.<br>🌱 Currently exploring Python, C/C++<br>⚡ In a journey to build real world projects with limited resources and unlimited curiosity.<br>👯 Open to collaboration.
+🔭 Hi, I am Jibanesh.<br>🧑‍🎓 A high school student from India passionate about CS and Cybersecurity.<br>🌱 Currently exploring Python, C/C++.<br>⚡ In a journey to build real world projects with limited resources and unlimited curiosity.<br>👯 Open to collaboration.
 
 
 ## 🌐 Socials:
