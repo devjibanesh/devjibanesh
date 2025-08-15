@@ -10,8 +10,3 @@
 
 > Exploring a whole world of computers with limited resources and unlimited curiosity  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjibanesh&show_icons=true&theme=transparent&hide_title=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjibanesh&layout=compact&theme=transparent&hide_border=true)
