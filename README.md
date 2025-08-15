@@ -6,4 +6,4 @@
 - Languages: C/C++, Python
 - Have a deep understanding in: Binary Number System, Boolean Algebra & Logic Gates, Data Structures, Computer Networking, Calculus-I, Statistics & Probability
 ---
->Exploring a whole world of Compters with limited resources and unlimited curiosity
+>Exploring a whole world of Computers with limited resources and unlimited curiosity
