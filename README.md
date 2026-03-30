@@ -1,4 +1,4 @@
-- Focused into Offensive Security & Red Teaming
+- Focused on Offensive Security & Red Teaming
 - Special interests in Systems Security, Vulnerability Research & Exploit Development
 - Do Maths and Cryptography as a hobby
 
