@@ -1,4 +1,3 @@
-# USER IS NEARLY DEAD
-## Will make a comback in 2027!
-
-> Stay tuned! He will comeback with something great...
+- Focused into Offensive Security & Red Teaming
+- Special interests in Systems Security, Vulnerability Research & Exploit Development
+- Likes to do Maths and Cryptography
